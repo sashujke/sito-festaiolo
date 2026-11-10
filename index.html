@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Il Festaiolo | Gonfiabili per feste</title>
+    <meta
+      name="description"
+      content="Noleggio gonfiabili per feste, compleanni ed eventi. Scopri il catalogo de Il Festaiolo."
+    />
+    <link rel="canonical" href="https://www.ilfestaiolo.it/" />
+    <meta property="og:title" content="Il Festaiolo | Gonfiabili per feste" />
+    <meta
+      property="og:description"
+      content="Noleggio gonfiabili per feste, compleanni ed eventi."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.ilfestaiolo.it/" />
+    <link rel="stylesheet" href="styles.css?v=9" />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  </head>
+  <body>
+    <!-- Hero: messaggio principale e collegamenti alle pagine più importanti. -->
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Feste che fanno saltare di gioia</p>
+          <h1>Il tuo evento,<br /><em>più gonfiabile.</em></h1>
+          <p class="lead">
+            Scegli il tuo preferito, raccontaci la festa e pensiamo noi al
+            resto.
+          </p>
+          <div class="actions">
+            <a class="button" href="catalogo.html">Esplora i gonfiabili</a
+            ><a class="text-link" href="contatti.html#prenota">Parliamone →</a>
+          </div>
+        </div>
+        <div class="hero-art">
+          <video
+            autoplay
+            muted
+            loop
+            playsinline
+            preload="metadata"
+            aria-label="Video de Il Festaiolo"
+          >
+            <source src="video/videofestaiolo.mp4?v=42" type="video/mp4" />
+          </video>
+        </div>
+      </section>
+      <!-- Categorie generate da app.js a partire dai dati del catalogo. -->
+      <section class="section intro">
+        <p class="eyebrow">Scegli come iniziare</p>
+        <h2>Una festa, zero pensieri.</h2>
+        <div class="category-list" id="category-list"></div>
+      </section>
+      <!-- Vetrina con una selezione dei gonfiabili disponibili. -->
+      <section class="section tinted">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Il catalogo breve</p>
+            <h2>Pronti a divertirsi.</h2>
+          </div>
+          <a class="text-link" href="catalogo.html">Vedi tutto →</a>
+        </div>
+        <div class="card-grid" id="featured-grid"></div>
+      </section>
+      <!-- Spiega in pochi passaggi come funziona il servizio. -->
+      <section class="section process">
+        <p class="eyebrow">Perché sceglierci / Come funziona</p>
+        <h2>Dal primo messaggio<br /><em>alla festa.</em></h2>
+        <p class="lead" id="why-copy"></p>
+        <ol class="steps" id="process-steps"></ol>
+        <p class="service-note">
+          Consegna, preparazione, smontaggio e ritiro sono servizi: dettagli e
+          disponibilità vengono concordati con noi, senza prezzi pubblicati.
+        </p>
+        <a class="button" href="contatti.html#prenota">Prenota ora</a>
+      </section>
+      <!-- Recensioni pubblicate e modulo per inviarne una nuova. -->
+      <section class="section reviews-section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Le vostre feste</p>
+            <h2>Recensioni</h2>
+          </div>
+        </div>
+        <div id="home-reviews" class="reviews"></div>
+        <form class="review-form" data-review-form>
+          <h3>Lascia una recensione</h3>
+          <div class="form-row">
+            <label>Nome<input name="name" required maxlength="80" /></label
+            ><label
+              >Valutazione<select name="rating" required>
+                <option value="">Scegli</option>
+                <option value="5">5 stelle</option>
+                <option value="4">4 stelle</option>
+                <option value="3">3 stelle</option>
+                <option value="2">2 stelle</option>
+                <option value="1">1 stella</option>
+              </select></label
+            >
+          </div>
+          <label
+            >La tua recensione<textarea
+              name="text"
+              required
+              maxlength="1000"
+            ></textarea></label
+          ><input type="hidden" name="area" value="rental" /><button
+            class="button"
+            type="submit"
+          >
+            Invia recensione
+          </button>
+          <p class="form-result" data-review-result aria-live="polite"></p>
+        </form>
+      </section>
+      <!-- Avviso sulla sicurezza, compilato dai dati JSON. -->
+      <section class="section"><p class="notice" id="safety-note"></p></section>
+    </main>
+    <dialog id="detail-modal"></dialog>
+    <script src="app.js?v=51"></script>
+  </body>
+</html>

@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Contatti e preventivo | Il Festaiolo</title>
+    <meta
+      name="description"
+      content="Richiedi un preventivo per il noleggio gonfiabili de Il Festaiolo."
+    />
+    <link rel="canonical" href="https://www.ilfestaiolo.it/contatti.html" />
+    <meta property="og:title" content="Contatti e preventivo | Il Festaiolo" />
+    <meta
+      property="og:description"
+      content="Richiedi un preventivo per il noleggio gonfiabili de Il Festaiolo."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://www.ilfestaiolo.it/contatti.html"
+    />
+    <link rel="stylesheet" href="styles.css?v=9" />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  </head>
+  <body>
+    <main class="page contact">
+      <!-- Introduzione alla pagina di richiesta preventivo. -->
+      <div class="page-intro">
+        <p class="eyebrow">Parliamone</p>
+        <h1>La tua festa<br /><em>inizia qui.</em></h1>
+        <p class="lead">
+          Compila il modulo e scegli il contatto WhatsApp per ricevere il
+          preventivo.
+        </p>
+      </div>
+      <!-- Recapiti diretti e modulo per preparare il messaggio WhatsApp. -->
+      <div id="prenota" class="contact-grid">
+        <div class="contact-info">
+          <h2>Contatti</h2>
+          <p>
+            <strong>WhatsApp</strong><br /><a
+              href="https://wa.me/393483701205"
+              target="_blank"
+              rel="noopener"
+              >Luca - Responsabile noleggio</a
+            ><br /><a
+              href="https://wa.me/393209510989"
+              target="_blank"
+              rel="noopener"
+              >Matteo - Noleggio</a
+            ><br /><a
+              href="https://wa.me/393487897744"
+              target="_blank"
+              rel="noopener"
+              >Alessia - Casa del Festaiolo</a
+            >
+          </p>
+          <p>
+            <strong>Email</strong><br /><a
+              data-contact="email"
+              href="mailto:adlucafesta@gmail.com"
+              >adlucafesta@gmail.com</a
+            >
+          </p>
+          <section class="casa-contact">
+            <h3>Casa del Festaiolo</h3>
+            <p>
+              Via Generale, Via Carlo Alberto dalla Chiesa, 3/B, 25017 Lonato
+              del Garda (BS)<br /><strong>Martedì–Domenica:</strong>
+              15:30–19:00<br /><strong>Lunedì:</strong> chiuso
+            </p>
+          </section>
+        </div>
+        <form id="booking-form" class="booking" aria-labelledby="booking-title">
+          <h2 id="booking-title">Richiedi un preventivo</h2>
+          <label
+            >Nome e cognome *<input
+              required
+              name="name"
+              autocomplete="name" /></label
+          ><label
+            >Telefono *<input
+              required
+              type="tel"
+              name="phone"
+              autocomplete="tel"
+              inputmode="tel"
+              placeholder="+39 ..." /></label
+          ><label
+            >Contatto WhatsApp *<select
+              required
+              name="whatsapp"
+              id="whatsapp-contact"
+            ></select></label
+          ><label>Gonfiabili (uno o più)</label>
+          <div id="product-options" class="product-options"></div>
+          <label>Data dell'evento<input type="date" name="date" /></label
+          ><label>Luogo / città<input name="location" /></label
+          ><label
+            >Note<textarea
+              name="notes"
+              rows="4"
+              placeholder="Numero di bambini, spazio disponibile..."
+            ></textarea></label
+          ><button class="button" type="submit">Apri WhatsApp</button>
+          <div id="form-result" aria-live="polite"></div>
+        </form>
+      </div>
+    </main>
+    <script src="app.js?v=51"></script>
+  </body>
+</html>

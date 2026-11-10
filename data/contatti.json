@@ -1,0 +1,29 @@
+{
+  "rental": [
+    {
+      "nome": "Luca - Responsabile noleggio",
+      "numero": "+39 348 370 1205"
+    },
+    {
+      "nome": "Matteo - Noleggio",
+      "numero": "+39 320 951 0989"
+    },
+    {
+      "nome": "Alessia - Casa del Festaiolo",
+      "numero": "+39 348 789 7744"
+    }
+  ],
+  "casa": [
+    {
+      "nome": "Alessia - Casa del Festaiolo",
+      "numero": "+39 348 789 7744"
+    },
+    {
+      "nome": "Casa del Festaiolo (fisso)",
+      "numero": "030 528 0877",
+      "tipo": "telefono"
+    }
+  ],
+  "telefono": "+39 000 000 0000",
+  "email": "adlucafesta@gmail.com"
+}

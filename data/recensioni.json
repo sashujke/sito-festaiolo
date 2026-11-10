@@ -1,0 +1,58 @@
+[
+  {
+    "nome": "Benedetta",
+    "testo": "Tutto top, organizzazione precisa e gonfiabile davvero bellissimo!",
+    "stelle": 5,
+    "area": "rental",
+    "data": "2026-10-24",
+    "fonte": "sito"
+  },
+  {
+    "nome": "Emma",
+    "testo": "Servizio puntuale, personale gentile e festa riuscita benissimo.",
+    "stelle": 5,
+    "area": "rental",
+    "data": "2026-10-24",
+    "fonte": "sito"
+  },
+  {
+    "nome": "Alessandro",
+    "testo": "Gonfiabile pulito e divertente, i bambini non volevano più scendere.",
+    "stelle": 5,
+    "area": "rental",
+    "data": "2026-10-24",
+    "fonte": "sito"
+  },
+  {
+    "nome": "Mario",
+    "testo": "Esperienza positiva e organizzazione semplice dall'inizio alla fine.",
+    "stelle": 4,
+    "area": "rental",
+    "data": "2026-10-24",
+    "fonte": "sito"
+  },
+  {
+    "nome": "Gianpietro",
+    "testo": "Ottimo servizio e grande disponibilità. Sicuramente da consigliare.",
+    "stelle": 5,
+    "area": "rental",
+    "data": "2026-10-24",
+    "fonte": "sito"
+  },
+  {
+    "nome": "Luca",
+    "testo": "Festa molto bella e gonfiabile apprezzato da tutti gli invitati.",
+    "stelle": 4,
+    "area": "rental",
+    "data": "2026-10-24",
+    "fonte": "sito"
+  },
+  {
+        "nome": "Юлия",
+        "testo": "Очень нравится, проводят дни рождения деткам,  всегда вежливые и позитивные. Очень чисто, благоустроено для детей и взрослых. Желаем процветания!",
+        "stelle": 5,
+        "area": "rental",
+        "data": "2026-10-25",
+        "fonte": "sito"
+    }
+]

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Catalogo gonfiabili | Il Festaiolo</title>
+    <meta
+      name="description"
+      content="Sfoglia il catalogo dei gonfiabili de Il Festaiolo."
+    />
+    <link rel="canonical" href="https://www.ilfestaiolo.it/catalogo.html" />
+    <meta property="og:title" content="Catalogo gonfiabili | Il Festaiolo" />
+    <meta
+      property="og:description"
+      content="Sfoglia il catalogo dei gonfiabili de Il Festaiolo."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://www.ilfestaiolo.it/catalogo.html"
+    />
+    <link rel="stylesheet" href="styles.css?v=9" />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  </head>
+  <body>
+    <!-- Tutto il catalogo viene inserito nel contenitore da app.js. -->
+    <main class="page">
+      <!-- Intestazione e immagine principale della pagina catalogo. -->
+      <div class="page-intro catalog-intro">
+        <div>
+          <p class="eyebrow">Il catalogo</p>
+          <h1>Trova il tuo<br /><em>preferito.</em></h1>
+          <p class="lead">
+            Scegli un gonfiabile, guarda le foto e scrivici per verificare la
+            disponibilità.
+          </p>
+        </div>
+        <img
+          src="img/gonfiabili/fotopagina.jpeg?v=42"
+          alt="Gonfiabili colorati per feste"
+          width="1536"
+          height="1024"
+          decoding="async"
+        />
+      </div>
+      <!-- Controlli per filtrare e ordinare le schede. -->
+      <button
+        type="button"
+        class="filter-toggle"
+        id="filter-toggle"
+        aria-expanded="false"
+      >
+        Filtri
+      </button>
+      <div class="toolbar">
+        <label
+          >Categoria
+          <select id="category-filter"></select></label
+        ><label
+          >Ordina
+          <select id="sort-filter">
+            <option value="default">In evidenza</option>
+            <option value="name">Nome</option>
+          </select></label
+        ><button type="button" class="reset-button" id="reset-filters">
+          Azzera filtri</button
+        ><button
+          type="button"
+          class="button small filter-apply"
+          id="filter-apply"
+        >
+          Applica</button
+        ><span id="results-count"></span>
+      </div>
+      <!-- Griglia popolata dinamicamente con le schede dei gonfiabili. -->
+      <div class="card-grid" id="catalog-grid"></div>
+    </main>
+    <dialog id="detail-modal"></dialog>
+    <script src="app.js?v=51"></script>
+  </body>
+</html>

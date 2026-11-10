@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Casa del Festaiolo</title>
+    <meta name="description" content="Scopri La Casa del Festaiolo." />
+    <link rel="canonical" href="https://www.ilfestaiolo.it/casa.html" />
+    <meta property="og:title" content="Casa del Festaiolo" />
+    <meta property="og:description" content="Scopri La Casa del Festaiolo." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.ilfestaiolo.it/casa.html" />
+    <link rel="stylesheet" href="styles.css?v=9" />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "La Casa del Festaiolo",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Via Generale, Via Carlo Alberto dalla Chiesa, 3/B",
+          "postalCode": "25017",
+          "addressLocality": "Lonato del Garda",
+          "addressRegion": "BS",
+          "addressCountry": "IT"
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "15:30",
+            "closes": "19:00"
+          }
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <main class="page house-page">
+      <!-- Presentazione della Casa del Festaiolo. -->
+      <section class="house-intro">
+        <div class="page-intro">
+          <p class="eyebrow">La nostra casa</p>
+          <h1 id="casa-title">La Casa del Festaiolo</h1>
+          <p class="lead" id="casa-description"></p>
+        </div>
+        <div class="house-intro-side">
+          <img
+            class="house-intro-image"
+            src="img/casa-del-festaiolo/casadelfestaiolo.JPG?v=43"
+            alt="Interno della Casa del Festaiolo"
+            width="1200"
+            height="800"
+            decoding="async"
+          />
+          <div
+            id="casa-intro-whatsapp"
+            class="actions house-intro-actions"
+          ></div>
+        </div>
+      </section>
+
+      <!-- Foto degli spazi e orari di apertura. -->
+      <section class="house-gallery-hours" aria-label="Foto e orari">
+        <div class="house-panel">
+          <h2>Spazi per festeggiare.</h2>
+          <div id="casa-gallery" class="house-gallery"></div>
+        </div>
+        <div class="house-panel house-hours-panel">
+          <h2>Orari.</h2>
+          <div id="casa-hours"></div>
+        </div>
+      </section>
+
+      <!-- Indirizzo e collegamento per le indicazioni stradali. -->
+      <section class="house-panel house-location-panel">
+        <h2>Come arrivare.</h2>
+        <p id="casa-address" class="house-address"></p>
+        <div id="casa-map" class="map-placeholder"></div>
+        <a id="casa-directions" class="button" target="_blank" rel="noopener"
+          >Come arrivare</a
+        >
+      </section>
+
+      <!-- Recensioni della casa e modulo di invio. -->
+      <section class="house-panel reviews-section">
+        <div class="section-head">
+          <h2>Recensioni.</h2>
+        </div>
+        <div id="casa-reviews" class="reviews"></div>
+        <form class="review-form" data-review-form>
+          <h3>Lascia una recensione</h3>
+          <div class="form-row">
+            <label>Nome<input name="name" required maxlength="80" /></label
+            ><label
+              >Valutazione<select name="rating" required>
+                <option value="">Scegli</option>
+                <option value="5">5 stelle</option>
+                <option value="4">4 stelle</option>
+                <option value="3">3 stelle</option>
+                <option value="2">2 stelle</option>
+                <option value="1">1 stella</option>
+              </select></label
+            >
+          </div>
+          <label
+            >La tua recensione<textarea
+              name="text"
+              required
+              maxlength="1000"
+            ></textarea></label
+          ><input type="hidden" name="area" value="casa" /><button
+            class="button"
+            type="submit"
+          >
+            Invia recensione
+          </button>
+          <p class="form-result" data-review-result aria-live="polite"></p>
+        </form>
+      </section>
+
+      <!-- Contatto rapido tramite WhatsApp. -->
+      <section class="house-panel house-contact-panel">
+        <h2>Contatti.</h2>
+        <p class="lead">
+          Scrivici su WhatsApp per informazioni e disponibilità.
+        </p>
+        <div id="casa-whatsapp" class="actions"></div>
+      </section>
+    </main>
+    <script src="app.js?v=51"></script>
+  </body>
+</html>

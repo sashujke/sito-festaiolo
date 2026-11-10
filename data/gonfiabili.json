@@ -1,0 +1,495 @@
+[
+  {
+    "id": "gonfiabile-01",
+    "nome": "Combinato Alieno",
+    "dimensioni": "L: 4m x P: 5m x H: 4m",
+    "foto": ["img/gonfiabili/web/combinato-alieno.jpg"],
+    "categorie": ["Saltarelli", "Gonfiabili piccoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-03",
+    "nome": "Castello Doppio",
+    "dimensioni": "L: 6m x P: 8m x H: 4m",
+    "foto": ["img/gonfiabili/web/castello-doppio.jpg"],
+    "categorie": ["Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-04",
+    "nome": "Snake",
+    "dimensioni": "L: 7.5m x P: 3m x H: 3.50m",
+    "foto": ["img/gonfiabili/web/snake.jpg"],
+    "categorie": ["Gonfiabili piccoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-05",
+    "nome": "Tema Mare",
+    "dimensioni": "L: 6m x P: 3.5m x H: 4.60m",
+    "foto": ["img/gonfiabili/web/tema-mare.jpg"],
+    "categorie": ["Gonfiabili piccoli", "Acquatici"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-07",
+    "nome": "Scivolo Trasformer",
+    "dimensioni": "L: 6m x P: 12m x H: 7m",
+    "foto": [
+      "img/gonfiabili/trasformer1.jpeg",
+      "img/gonfiabili/trasformer2.jpeg",
+      "img/gonfiabili/trasformer3.jpeg"
+    ],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-08",
+    "nome": "Scivolo Pagliaccio",
+    "dimensioni": "L: 5m x P: 3.5m x H: 4m",
+    "foto": ["img/gonfiabili/scivolopagliaccio1.png"],
+    "categorie": ["Gonfiabili medi", "Scivoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-09",
+    "nome": "Nave Fantasy",
+    "dimensioni": "L: 7m x P: 4.5m x H: 6m",
+    "foto": ["img/gonfiabili/web/navefantasy.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-10",
+    "nome": "Acquarium Slide",
+    "dimensioni": "L: 6m x P: 3.5m x H: 4.60m",
+    "foto": ["img/gonfiabili/web/acquarium-slide.jpg.jpg"],
+    "categorie": ["Gonfiabili medi", "Acquatici"],
+    "descrizione": "",
+    "disponibile": false
+  },
+  {
+    "id": "gonfiabile-12",
+    "nome": "Big Lucertola",
+    "dimensioni": "L: 7m x P: 4m x H: 5.5m",
+    "foto": [
+      "img/gonfiabili/biglucertola1.jpeg",
+      "img/gonfiabili/biglucertola2.jpeg",
+      "img/gonfiabili/biglucertola3.jpeg"
+    ],
+    "categorie": ["Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-13",
+    "nome": "Formula Slide",
+    "dimensioni": "L: 7m x P: 4m x H: 6m",
+    "foto": ["img/gonfiabili/web/formula-slide.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-14",
+    "nome": "Dino Slide",
+    "dimensioni": "L: 7m x P: 4m x H: 6m",
+    "foto": ["img/gonfiabili/web/dino-slide.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-15",
+    "nome": "Acquarium Slide",
+    "dimensioni": "L: 6m x P: 3m x H: 4m",
+    "foto": ["img/gonfiabili/web/acquarium-slide.jpg"],
+    "categorie": ["Gonfiabili medi", "Acquatici"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-18",
+    "nome": "Calcio Volley Saponato",
+    "dimensioni": "L: 20m x P: 10m x H: 2m",
+    "foto": ["img/gonfiabili/web/calcio-volleysaponato.jpg"],
+    "categorie": ["Gonfiabili grandi", "Acquatici"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-20",
+    "nome": "Jungle",
+    "dimensioni": "L: 13m x P: 3.70m x H: 4.70m",
+    "foto": ["img/gonfiabili/web/jungle.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-21",
+    "nome": "Shark Slide",
+    "dimensioni": "L: 5m x P: 8.60m x H: 5.90m",
+    "foto": ["img/gonfiabili/web/sharkslide.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-22",
+    "nome": "Waterslide Blue Crush Tsunami",
+    "dimensioni": "L: 13m x P: 4.50m x H: 8m",
+    "foto": ["img/gonfiabili/web/combo-navi-pirati.jpg"],
+    "categorie": ["Acquatici", "Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-23",
+    "nome": "Percorso Pirati",
+    "dimensioni": "L: 3m x P: 6m x H: 3m",
+    "foto": ["img/gonfiabili/web/percorsopirati.jpg"],
+    "categorie": ["Gonfiabili piccoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-24",
+    "nome": "Galleone",
+    "dimensioni": "L: 8m x P: 4m x H: 5m",
+    "foto": ["img/gonfiabili/web/galleone2.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "scivolo colorato colorato per feste e compleanni. Le caratteristiche precise, la disponibilità e il prezzo finale sono da confermare.",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-25",
+    "nome": "Pesciolino Slide",
+    "dimensioni": "L: 4m x P: 3.50m x H: 2.80m",
+    "foto": ["img/gonfiabili/web/pesciolino-slide1.jpg"],
+    "categorie": ["Acquatici", "Gonfiabili piccoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-26",
+    "nome": "Palm Slide",
+    "dimensioni": "L: 9m x P: 4m x H: 6m",
+    "foto": ["img/gonfiabili/web/palmslide.jpg"],
+    "categorie": ["Acquatici", "Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-27",
+    "nome": "Space Slide",
+    "dimensioni": "L: 7m x P: 4m x H: 6m",
+    "foto": ["img/gonfiabili/web/space-slide.jpg"],
+    "categorie": ["Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-28",
+    "nome": "Salta Foresta",
+    "dimensioni": "L: 3m x P: 3m x H: 3m",
+    "foto": ["img/gonfiabili/web/saltaforesta.jpg"],
+    "categorie": ["Gonfiabili piccoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-30",
+    "nome": "Toro Meccanico",
+    "dimensioni": "L: 5m x P: 5m x H: 1.5m",
+    "foto": ["img/gonfiabili/toromeccanico.jpeg"],
+    "categorie": ["Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-36",
+    "nome": "Acqua Slide",
+    "dimensioni": "L: 6.5m x P: 3.5m x H: 4m",
+    "foto": ["img/gonfiabili/acquaslide1.png"],
+    "categorie": ["Acquatici", "Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-39",
+    "nome": "Combo Navi Pirati",
+    "dimensioni": "L: 5.5m x P: 5m x H: 4m",
+    "foto": ["img/gonfiabili/web/combonaviepirati.jpg"],
+    "categorie": ["Gonfiabili piccoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-40",
+    "nome": "Palm Tree Beach",
+    "dimensioni": "L: 4.5m x P: 4m x H: 2.5m",
+    "foto": ["img/gonfiabili/web/palmtreebeach.jpg"],
+    "categorie": ["Gonfiabili piccoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-41",
+    "nome": "Calcetto Umano",
+    "dimensioni": "L: 15m x P: 9m x H: 2.80m",
+    "foto": ["img/gonfiabili/web/calcettoumano.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-45",
+    "nome": "Bolla Magica",
+    "dimensioni": "L: 4m x P: 3m x H: 2.5m",
+    "foto": ["img/gonfiabili/bollamagica1.png"],
+    "categorie": ["Gonfiabili piccoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-46",
+    "nome": "Aereo Slide",
+    "dimensioni": "L: 7m x P: 4m x H: 8m",
+    "foto": ["img/gonfiabili/web/aereoslidee.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-47",
+    "nome": "Scivolo Mare",
+    "dimensioni": "L: 3m x P: 3m x H: 3m",
+    "foto": ["img/gonfiabili/scivolomare1.png"],
+    "categorie": ["Gonfiabili piccoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-48",
+    "nome": "New Dragon Slide (Movimento ali)",
+    "dimensioni": "L: 7m x P: 5.5m x H: 6.5m",
+    "foto": [
+      "img/gonfiabili/newdragonslide1.jpeg",
+      "img/gonfiabili/newdragonslide2.JPG",
+      "img/gonfiabili/newdragonslide3.jpeg",
+      "img/gonfiabili/newdragonslide4.mp4"
+    ],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-50",
+    "nome": "Rainbow Slide",
+    "dimensioni": "L: 8m x P: 4.5m x H: 7m",
+    "foto": ["img/gonfiabili/rainbowslide.jpeg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-53",
+    "nome": "Big Cars Slide",
+    "dimensioni": "L: 10m x P: 5.5m x H: 8m",
+    "foto": ["img/gonfiabili/web/cars.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-54",
+    "nome": "Salta Clown",
+    "dimensioni": "L: 5m x P: 4.5m x H: 3m",
+    "foto": ["img/gonfiabili/web/saltaclown.jpg"],
+    "categorie": ["Gonfiabili piccoli"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-55",
+    "nome": "Combinato Safari",
+    "dimensioni": "L: 5.5m x P: 5m x H: 4m",
+    "foto": ["img/gonfiabili/web/combinato-safari.jpg"],
+    "categorie": ["Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-57",
+    "nome": "Fire Station",
+    "dimensioni": "L: 8m x P: 6m x H: 6m",
+    "foto": ["img/gonfiabili/web/firestation.jpg"],
+    "categorie": ["Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-58",
+    "nome": "Car Monster Slide (Trattore)",
+    "dimensioni": "L: 10m x P: 5.5m x H: 7m",
+    "foto": ["img/gonfiabili/web/trattore.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-59",
+    "nome": "Tendone",
+    "dimensioni": "",
+    "foto": ["img/gonfiabili/web/tendone.jpg"],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-60",
+    "nome": "Maxi Percorso Militare",
+    "dimensioni": "L: 27m x P: 3.50m x H: 5m",
+    "foto": ["img/gonfiabili/web/militare.jpg"],
+    "categorie": ["Gonfiabili grandi", "Sport e sfide"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-61",
+    "nome": "Beach House",
+    "dimensioni": "L: 5m x P: 3m x H: 3m",
+    "foto": ["img/gonfiabili/web/beachhouse.jpg"],
+    "categorie": ["Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-62",
+    "nome": "Carrozza Glaciale",
+    "dimensioni": "L: 7m x P: 4m x H: 4m",
+    "foto": ["img/gonfiabili/carozza1.png"],
+    "categorie": ["Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-63",
+    "nome": "Football Darts",
+    "dimensioni": "L: 4.50m x P: 3m x H: 4.60m",
+    "foto": ["img/gonfiabili/web/footbaldarts.jpg"],
+    "categorie": ["Sport e sfide"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-64",
+    "nome": "Punchball",
+    "dimensioni": "",
+    "foto": ["img/gonfiabili/web/punchball.jpg"],
+    "categorie": ["Sport e sfide"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-65",
+    "nome": "Gazebo Festaiolo",
+    "dimensioni": "",
+    "foto": ["img/gonfiabili/web/gazzebofestaiolo.jpg"],
+    "categorie": ["Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-66",
+    "nome": "Casa di Babbo Natale",
+    "dimensioni": "",
+    "foto": ["img/gonfiabili/web/casasantaclause.jpg"],
+    "categorie": ["Gonfiabili medi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-67",
+    "nome": "Sticky Wall",
+    "dimensioni": "",
+    "foto": ["img/gonfiabili/web/stickywall.jpg"],
+    "categorie": ["Sport e sfide"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-68",
+    "nome": "Punchball",
+    "dimensioni": "2x3",
+    "foto": ["img/gonfiabili/web/punchballnuovo.jpg"],
+    "categorie": ["Sport e sfide"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-69",
+    "nome": "Macchina Popcorn",
+    "dimensioni": "",
+    "foto": ["img/gonfiabili/macchinapopcorn.jpg"],
+    "categorie": ["Servizi e accessori"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-70",
+    "nome": "Zucchero Filato",
+    "dimensioni": "",
+    "foto": ["img/gonfiabili/zuccherofilato.jpg"],
+    "categorie": ["Servizi e accessori"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-71",
+    "nome": "Schiuma Party",
+    "dimensioni": "",
+    "foto": ["img/gonfiabili/schiumaparty.JPG"],
+    "categorie": ["Servizi e accessori"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-72",
+    "nome": "Percorso Grande",
+    "dimensioni": "L: 50m x P: 5m x H: 5m",
+    "foto": [
+      "img/gonfiabili/percorsogrande1.jpeg",
+      "img/gonfiabili/percorsogrande2.jpeg"
+    ],
+    "categorie": ["Gonfiabili grandi"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-73",
+    "nome": "Biliardino",
+    "dimensioni": "",
+    "foto": ["img/gonfiabili/billiardino1.jpeg"],
+    "categorie": ["Servizi e accessori"],
+    "descrizione": "",
+    "disponibile": null
+  },
+  {
+    "id": "gonfiabile-74",
+    "nome": "Catering",
+    "dimensioni": "",
+    "foto": ["img/gonfiabili/catering1.jpeg"],
+    "categorie": ["Servizi e accessori"],
+    "descrizione": "",
+    "disponibile": null
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "nome": "La Casa del Festaiolo",
+  "descrizione": "Spazio interno per feste e momenti conviviali; dettagli e condizioni sono da verificare.",
+  "orari": [
+    {
+      "giorno": "Lunedì",
+      "aperto": false,
+      "apertura": null,
+      "chiusura": null,
+      "verificato": true
+    },
+    {
+      "giorno": "Martedì",
+      "aperto": true,
+      "apertura": "15:30",
+      "chiusura": "19:00",
+      "verificato": true
+    },
+    {
+      "giorno": "Mercoledì",
+      "aperto": true,
+      "apertura": "15:30",
+      "chiusura": "19:00",
+      "verificato": true
+    },
+    {
+      "giorno": "Giovedì",
+      "aperto": true,
+      "apertura": "15:30",
+      "chiusura": "19:00",
+      "verificato": true
+    },
+    {
+      "giorno": "Venerdì",
+      "aperto": true,
+      "apertura": "15:30",
+      "chiusura": "19:00",
+      "verificato": true
+    },
+    {
+      "giorno": "Sabato",
+      "aperto": true,
+      "apertura": "15:30",
+      "chiusura": "19:00",
+      "verificato": true
+    },
+    {
+      "giorno": "Domenica",
+      "aperto": true,
+      "apertura": "15:30",
+      "chiusura": "19:00",
+      "verificato": true
+    }
+  ],
+  "servizi": ["Spazio per feste", "Area conviviale", "Prenotazione privata"],
+  "indirizzo": "Via Generale, Via Carlo Alberto dalla Chiesa, 3/B, 25017 Lonato del Garda (BS)",
+  "mappa": "https://www.google.com/maps/search/?api=1&query=Via+Generale%2C+Via+Carlo+Alberto+dalla+Chiesa%2C+3%2FB%2C+25017+Lonato+del+Garda+BS",
+  "feste": [],
+  "galleria": [
+    "img/casa-del-festaiolo/unnamed (1).webp",
+    "img/casa-del-festaiolo/unnamed (10).webp",
+    "img/casa-del-festaiolo/unnamed (11).webp",
+    "img/casa-del-festaiolo/unnamed (12).webp",
+    "img/casa-del-festaiolo/unnamed (13).webp",
+    "img/casa-del-festaiolo/unnamed (14).webp",
+    "img/casa-del-festaiolo/unnamed (2).webp",
+    "img/casa-del-festaiolo/unnamed (3).webp",
+    "img/casa-del-festaiolo/unnamed (4).webp",
+    "img/casa-del-festaiolo/unnamed (5).webp",
+    "img/casa-del-festaiolo/unnamed (6).webp",
+    "img/casa-del-festaiolo/unnamed (7).webp",
+    "img/casa-del-festaiolo/unnamed (8).webp",
+    "img/casa-del-festaiolo/unnamed (9).webp",
+    "img/casa-del-festaiolo/unnamed.webp"
+  ],
+  "recensioni": [],
+  "urlFonte": "https://share.google/eHnPpL9gXKWfOLIxJ",
+  "statoFonte": "Non leggibile oltre il reindirizzamento a Google Search per \"La Casa del Festaiolo\"; dati da verificare.",
+  "daVerificare": false,
+  "orariVerificati": true,
+  "indirizzoVerificato": true,
+  "fasciaPrezzo": "Da €250 a evento",
+  "prezzo": "€250 a evento",
+  "capacita": "Fino a 30 bambini",
+  "serviziDaVerificare": true,
+  "prezzoDaVerificare": true,
+  "capacitaDaVerificare": true
+}

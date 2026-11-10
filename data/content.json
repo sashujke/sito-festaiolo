@@ -1,0 +1,16 @@
+{
+  "home": {
+    "percheSceglierci": "Un unico punto di riferimento per scegliere, prenotare e vivere la tua festa.",
+    "comeFunziona": [
+      "Scegli il gonfiabile e prenota la data",
+      "Ti confermiamo la disponibilità",
+      "Consegniamo e prepariamo tutto noi",
+      "Tu ti diverti",
+      "Smontiamo e ritiriamo tutto noi"
+    ]
+  },
+  "sicurezza": {
+    "daConfermare": true,
+    "testo": "UNI EN 14960, vento massimo 38 km/h e corretto ancoraggio: indicazioni da confermare prima della pubblicazione definitiva."
+  }
+}

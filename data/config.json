@@ -1,0 +1,40 @@
+{
+  "brand": "Il Festaiolo",
+  "claim": "Gonfiabili e feste senza pensieri",
+  "telefono": "+39 000 000 0000",
+  "whatsapp": "390000000000",
+  "email": "info@example.com",
+  "instagram": "https://www.instagram.com/",
+  "linkRecensioni": {
+    "rental": "",
+    "casa": ""
+  },
+  "categorie": [
+    "Tutti",
+    "Gonfiabili piccoli",
+    "Gonfiabili medi",
+    "Gonfiabili grandi",
+    "Acquatici",
+    "Sport e sfide",
+    "Servizi e accessori"
+  ],
+  "fasceEta": [
+    {
+      "label": "3–6 anni",
+      "min": 3,
+      "max": 6
+    },
+    {
+      "label": "6–12 anni",
+      "min": 6,
+      "max": 12
+    },
+    {
+      "label": "12+ anni",
+      "min": 12,
+      "max": null
+    }
+  ],
+  "notaCatalogo": "Le schede sono in aggiornamento: scrivici per disponibilità, prezzo e misure aggiornate.",
+  "mostraPrezziDaVerificare": true
+}
